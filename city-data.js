@@ -3967,3 +3967,4 @@ var CityData = [
         ]
     }
 ];
+export default CityData;

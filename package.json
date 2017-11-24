@@ -1,0 +1,24 @@
+{
+  "name": "chinese-city-data",
+  "version": "1.0.0",
+  "description": "chinese city data",
+  "main": "city-data.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalentao/city-data.git"
+  },
+  "keywords": [
+    "chinese",
+    "city",
+    "data"
+  ],
+  "author": "jalentao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jalentao/city-data/issues"
+  },
+  "homepage": "https://github.com/jalentao/city-data#readme"
+}
